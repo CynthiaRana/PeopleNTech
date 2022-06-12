@@ -19,7 +19,7 @@ public class AppTest
     {
         super( testName );
     }
-
+// Drive safe and reach safe.
     /**
      * @return the suite of tests being tested
      */
@@ -36,4 +36,3 @@ public class AppTest
         assertTrue( true );
     }
 }
-//We had party tonight hosted by Alley.
