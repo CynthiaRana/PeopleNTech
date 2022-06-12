@@ -19,6 +19,7 @@ public class AppTest
     {
         super( testName );
     }
+//Naznin studying hard.
 
     /**
      * @return the suite of tests being tested
@@ -36,4 +37,4 @@ public class AppTest
         assertTrue( true );
     }
 }
-//We had party tonight hosted by Alley.
+//Folks are going to beach tomorrow. 
